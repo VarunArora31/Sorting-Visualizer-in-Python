@@ -96,8 +96,8 @@ def Sort():
          return
      
      if(algo_menu.get() == "Quick Sort"):
-            quickSort(data, 0, len(data)-1, draw_bars, speed_value)
-            draw_bars(data, ['green' for x in range(len(data))] )
+            quickSort(data, 0, len(data)-1, draw_bars, float(speed_value))
+            draw_bars(data, ['#003153' for x in range(len(data))] )
      elif(algo_menu.get() == "Bubble Sort"):
         bubbleSort(data, draw_bars, speed_value)
      elif(algo_menu.get()=="Selection Sort"):
