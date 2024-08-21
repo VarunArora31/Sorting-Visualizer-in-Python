@@ -69,6 +69,8 @@ def new_arr():
         speed_value = 0.01
     elif float(speed_value) > 2:
         speed_value = 0.01
+    else:
+        speed_value = float(speed_value)
         
     if min_value < 0:
         min_value = 0
