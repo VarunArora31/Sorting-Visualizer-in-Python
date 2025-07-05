@@ -6,7 +6,7 @@ This project, created for IOTA, is a Sorting Visualizer that demonstrates how va
 
 Sorting algorithms are fundamental to computer science, and understanding their behavior can significantly enhance your knowledge of how data structures and algorithms function. This project provides an interactive way to observe and learn about different sorting techniques through visual representation.
 
-###📸 Sorting Visualizer Screenshots
+### 📸 Sorting Visualizer Screenshots
 
 Here are some example screenshots from the Sorting Visualizer project:
 
